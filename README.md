@@ -20,7 +20,7 @@ This project analyzes a dataset of movies to explore how various features (like 
 
 ## 📂 Project Structure
 ```
-📓 movie_data_correlation_analysis.ipynb  - Main code notebook
+📓 Movie_Correlation_Project.ipynb       - Main code notebook
 📄 README.md                             - Project documentation
 📄 requirements.txt                      - Python packages used
 📄 .gitignore                            - Files ignored in version control
@@ -57,6 +57,5 @@ This project analyzes a dataset of movies to explore how various features (like 
 - Build a Streamlit dashboard for interactive exploration
 
 ## 🧑‍💼 Author
-**Pooja Pathare**  
-Aspiring Data Analyst | MSc in Computer Science  
-[LinkedIn](https://www.linkedin.com/in/your-profile)
+**Shubham Bamane**  
+Aspiring Data Analyst | MS in Data Science  
