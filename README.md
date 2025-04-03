@@ -38,7 +38,7 @@ This project analyzes a dataset of movies to explore how various features (like 
    ```
 3. Run the notebook in Jupyter:
    ```
-   jupyter notebook movie_data_correlation_analysis.ipynb
+   jupyter notebook Movie_Correlation_Project.ipynb 
    ```
 
 ## 🔍 Insights Gained
