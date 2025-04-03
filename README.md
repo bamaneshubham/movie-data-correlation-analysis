@@ -28,7 +28,7 @@ This project analyzes a dataset of movies to explore how various features (like 
 ```
 
 ## 📸 Sample Output
-![Correlation Heatmap](images/Correlation_Heatmap.png)
+![Correlation_Heatmap](images/Correlation_Heatmap.png)
 
 ## 🚀 How to Run
 1. Clone this repository
