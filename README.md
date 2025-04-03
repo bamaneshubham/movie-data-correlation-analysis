@@ -24,11 +24,11 @@ This project analyzes a dataset of movies to explore how various features (like 
 📄 README.md                             - Project documentation
 📄 requirements.txt                      - Python packages used
 📄 .gitignore                            - Files ignored in version control
-📁 images/ (optional)                    - Plots or visual output
+📁 images                                - Plots or visual output
 ```
 
 ## 📸 Sample Output
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 
 ## 🚀 How to Run
 1. Clone this repository
